@@ -65,19 +65,14 @@ In the Parameters section, assign:<br>
 #### 7. Close Database Connection
 Use Disconnect activity to close the database connection after writing the data.
 ## UiPath WorkFlow:
-![alt text](<img/Screenshot 2024-10-12 112403.png>)
-![alt text](<img/Screenshot 2024-10-12 112445.png>)
-![alt text](<img/Screenshot 2024-10-12 112514.png>)
-![alt text](<img/Screenshot 2024-10-12 112619.png>)
-![alt text](<img/Screenshot 2024-10-12 112713.png>)
-![alt text](<img/Screenshot 2024-10-12 112745.png>)
-![alt text](<img/Screenshot 2024-10-12 112813.png>)
-![alt text](<img/Screenshot 2024-10-12 113157.png>)
-![alt text](<img/Screenshot 2024-10-12 113241.png>)
-![alt text](<img/Screenshot 2024-10-12 113334.png>)
-![alt text](<img/Screenshot 2024-10-12 182140.png>)
-![alt text](<img/Screenshot 2024-10-12 182320.png>)
-![alt text](<img/Screenshot 2024-10-12 182418.png>)
-![alt text](<img/Screenshot 2024-10-12 182502.png>)
+![image](https://github.com/user-attachments/assets/028a1a10-90e4-428d-8f07-1eaf704bb76d)
+![image](https://github.com/user-attachments/assets/a12e66b4-43d0-460a-a459-6d868e64a2fd)
+![image](https://github.com/user-attachments/assets/63ed82b9-4b5c-4bce-8df2-dfafd5b7bc55)
+![image](https://github.com/user-attachments/assets/23869cbe-340d-4804-8af5-bda5fe21a91b)
+![image](https://github.com/user-attachments/assets/593695bd-a3ea-480d-bd2c-7dba3a36e5d7)
+
+
+
+
 ## Result:
 The UiPath workflow successfully calls the weather API, processes the JSON response, and writes data such as city name, temperature, and humidity into the specified database table.
